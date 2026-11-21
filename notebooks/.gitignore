@@ -1,0 +1,5 @@
+.venv/
+venv
+__pycashe__
+.ipynb_checkpoints
+*.__pycashe__.DS_Store
